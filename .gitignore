@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo
+next-env.d.ts
+test*.txt
+test_nav.py
+video_trimmer_write.js
+wt*.js
+components/video-trimmer/VT.js

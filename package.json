@@ -1,0 +1,32 @@
+{
+  "name": "toolkit",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@ffmpeg/core": "^0.12.10",
+    "@ffmpeg/ffmpeg": "^0.12.15",
+    "@ffmpeg/util": "^0.12.2",
+    "@mediapipe/tasks-vision": "^0.10.35",
+    "clsx": "^2.1.1",
+    "jszip": "^3.10.1",
+    "lamejs": "^1.2.1",
+    "lucide-react": "^1.27.0",
+    "motion": "^12.42.2",
+    "next": "16.2.10",
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^6.1.200",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "tailwind-merge": "^3.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^9",
+    "eslint-config-next": "16.2.10"
+  }
+}
